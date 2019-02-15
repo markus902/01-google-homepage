@@ -1,1 +1,0 @@
-This is my first project in the odin project - the Google Homepage. There is still a lot to improve but it looks ok for now.
